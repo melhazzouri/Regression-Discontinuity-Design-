@@ -1,6 +1,6 @@
 ## 🔸 Regression Discontinuity Design - COVID 🔸
 
-### 🏆 Goal
+## 🏆 Goal
 
 Goal is to use RDD to estimate the effect of the following events in Quebec:
 

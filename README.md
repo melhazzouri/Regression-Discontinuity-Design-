@@ -40,4 +40,4 @@ The focus of our work is only on the daily Covid cases. We have also decided to 
 
 
 ## ⭐ Conclusion
-Given the lag date of April 15, 2020, we can conclude that the lockdown has decreased the cases of Covid reported daily in Quebec. By looking at the summary we can see that there is statiscal significance with the day and the intercept having Pvalues lower than 0.05. 
+Our results show that both Narch and December lockdowns decreased the number of covid daily cases and August reopening increased the number of daily covid cases. We verified our models statistically with the significance of the cut off dates. 

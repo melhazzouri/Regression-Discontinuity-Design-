@@ -40,4 +40,4 @@ The focus of our work is only on the daily Covid cases. We have also decided to 
 
 
 ## ⭐ Conclusion
-Our results show that both Narch and December lockdowns decreased the number of covid daily cases and August reopening increased the number of daily covid cases. We verified our models statistically with the significance of the cut off dates. 
+Our results show that both March and December lockdowns decreased the number of covid daily cases and August reopening increased the number of daily covid cases. We verified our models statistically with the significance of the cut off dates. 

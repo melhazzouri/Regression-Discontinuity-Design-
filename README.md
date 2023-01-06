@@ -29,11 +29,14 @@ The focus of our work is only on the daily Covid cases. We have also decided to 
 ## 📊 Results
 
 ### RDD March Lockdown.
+![111](https://user-images.githubusercontent.com/39967400/210910200-12f871d3-aa4d-4d06-843f-353731c57644.png)
 
+### RDD August Reopening
+![222](https://user-images.githubusercontent.com/39967400/210910277-057f2a42-295e-4b96-827b-347f3b1f352e.png)
 
-Assigned a cutoff predictor of April 15, 2020.
-<br>Added Polynomial Feature
-<img src="./images/final.png" style="max-width: 300px"/>
+### RDD December Lockdown
+![333](https://user-images.githubusercontent.com/39967400/210910344-6114f9d9-c1f6-4540-bfd1-3c15ed9cc731.png)
+
 
 
 ## ⭐ Conclusion

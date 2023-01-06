@@ -26,16 +26,10 @@ The focus of our work is only on the daily Covid cases. We have also decided to 
 <br>7. Plotted the Final Regression Discontinuity Model.
 
 
-## 📊 Data Visualization
-### Daily Covid Cases
-<img src="./images/dataviz.png" style="max-width: 300px"/>
+## 📊 Results
 
-Just by looking at the dataset, we can say that people were already getting tested for Covid however, we can not conclude any result of the tests. For the first quarter of the year there were no records of daily cases.
+### RDD March Lockdown.
 
-Since, it is hard to see if the lockdown actually had a positive or negative effect. We have decided to lag the data by 3 weeks to see more visible changes given that more data is provided on the second quarter.
-
-### Visualization from March 16, 2020 to May 15,2020.
-<img src="./images/lagged.png" style="max-width: 300px"/>
 
 Assigned a cutoff predictor of April 15, 2020.
 <br>Added Polynomial Feature

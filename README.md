@@ -32,7 +32,7 @@ The focus of our work is only on the daily Covid cases. We have also decided to 
 ![111](https://user-images.githubusercontent.com/39967400/210910200-12f871d3-aa4d-4d06-843f-353731c57644.png)
 
 ### RDD August Reopening
-![222](https://user-images.githubusercontent.com/39967400/210910277-057f2a42-295e-4b96-827b-347f3b1f352e.png)
+![image](https://user-images.githubusercontent.com/39967400/211121742-dbb911bc-45b1-4809-864a-c5846dd028be.png)
 
 ### RDD December Lockdown
 ![333](https://user-images.githubusercontent.com/39967400/210910344-6114f9d9-c1f6-4540-bfd1-3c15ed9cc731.png)
